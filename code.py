@@ -190,4 +190,4 @@ answer = pd.DataFrame({
 
 """To get a csv file of the predicted value, run the following code."""
 
-answer.to_csv('InternTask.csv', index=False)
+answer.to_csv('solution.csv', index=False)
