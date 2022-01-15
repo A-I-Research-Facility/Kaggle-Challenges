@@ -1,6 +1,6 @@
-# Kaggle
+# Kaggle Challenges
 
-First kaggle challenge - Titanic survivors
+## 1) [Titanic Survivors](https://www.kaggle.com/c/titanic)
 
 Model prediction accuracy : 81.1481 %
 
